@@ -1,0 +1,18 @@
+{
+  "variant": "vibrant",
+  "primary": "hsl(271, 76%, 53%)",
+  "appearance": "dark",
+  "radius": 1.0,
+  "colors": {
+    "dark": {
+      "background": "hsl(271, 30%, 4%)",
+      "foreground": "hsl(271, 76%, 93%)",
+      "card": "hsl(271, 30%, 8%)",
+      "card-foreground": "hsl(271, 76%, 93%)",
+      "popover": "hsl(271, 30%, 8%)",
+      "popover-foreground": "hsl(271, 76%, 93%)",
+      "border": "hsl(271, 30%, 15%)",
+      "input": "hsl(271, 30%, 15%)"
+    }
+  }
+}
